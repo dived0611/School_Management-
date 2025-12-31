@@ -1,0 +1,8 @@
+
+export default function Login() {
+  return (
+    <div>
+      <h1 className="text-3xl">Welcome to the Login Page</h1>
+    </div>
+  );
+}
